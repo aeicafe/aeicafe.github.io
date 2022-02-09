@@ -6,7 +6,16 @@
     <description>Recent content in Drink-menus on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 18:46:00 +0800</lastBuildDate><atom:link href="https://aeicafe.com/drink-menu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Feb 2022 16:01:14 +0800</lastBuildDate><atom:link href="https://aeicafe.com/drink-menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>奶茶 Milk Tea</title>
+      <link>https://aeicafe.com/drink-menu/milktea/</link>
+      <pubDate>Wed, 09 Feb 2022 16:01:14 +0800</pubDate>
+      
+      <guid>https://aeicafe.com/drink-menu/milktea/</guid>
+      <description>公主奶茶 milk tea 冷／熱 台</description>
+    </item>
+    
     <item>
       <title>特調飲料 Blended drinks</title>
       <link>https://aeicafe.com/drink-menu/blended/</link>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>奶茶 on 安迪艾倫咖啡小館</title>
+    <link>https://aeicafe.com/categories/%E5%A5%B6%E8%8C%B6/</link>
+    <description>Recent content in 奶茶 on 安迪艾倫咖啡小館</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Feb 2022 16:01:14 +0800</lastBuildDate><atom:link href="https://aeicafe.com/categories/%E5%A5%B6%E8%8C%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>奶茶 Milk Tea</title>
+      <link>https://aeicafe.com/drink-menu/milktea/</link>
+      <pubDate>Wed, 09 Feb 2022 16:01:14 +0800</pubDate>
+      
+      <guid>https://aeicafe.com/drink-menu/milktea/</guid>
+      <description>公主奶茶 milk tea 冷／熱 台</description>
+    </item>
+    
+  </channel>
+</rss>

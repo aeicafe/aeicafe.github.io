@@ -6,14 +6,23 @@
     <description>Recent content in Drink-menus on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Feb 2022 16:01:14 +0800</lastBuildDate><atom:link href="https://aeicafe.com/drink-menu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 18:41:34 +0800</lastBuildDate><atom:link href="https://aeicafe.com/drink-menu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>奶茶 Milk Tea</title>
-      <link>https://aeicafe.com/drink-menu/milktea/</link>
-      <pubDate>Wed, 09 Feb 2022 16:01:14 +0800</pubDate>
+      <title>咖啡 coffee</title>
+      <link>https://aeicafe.com/drink-menu/coffee/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aeicafe.com/drink-menu/milktea/</guid>
-      <description>公主奶茶 milk tea 冷／熱 台</description>
+      <guid>https://aeicafe.com/drink-menu/coffee/</guid>
+      <description>咖啡 義式咖啡 Café</description>
+    </item>
+    
+    <item>
+      <title>茶/奶茶 Tea&amp;Milk tea</title>
+      <link>https://aeicafe.com/drink-menu/tea/</link>
+      <pubDate>Tue, 01 Feb 2022 18:41:34 +0800</pubDate>
+      
+      <guid>https://aeicafe.com/drink-menu/tea/</guid>
+      <description>手奉 台灣黑客茶Tai</description>
     </item>
     
     <item>
@@ -32,24 +41,6 @@
       
       <guid>https://aeicafe.com/drink-menu/alcohol/</guid>
       <description>啤酒BEER 台灣 金牌</description>
-    </item>
-    
-    <item>
-      <title>茶 Tea</title>
-      <link>https://aeicafe.com/drink-menu/tea/</link>
-      <pubDate>Wed, 01 Dec 2021 18:41:34 +0800</pubDate>
-      
-      <guid>https://aeicafe.com/drink-menu/tea/</guid>
-      <description>手奉 台灣黑客茶Tai</description>
-    </item>
-    
-    <item>
-      <title>咖啡 coffee</title>
-      <link>https://aeicafe.com/drink-menu/coffee/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://aeicafe.com/drink-menu/coffee/</guid>
-      <description>咖啡 義式咖啡 Café</description>
     </item>
     
   </channel>

@@ -8,20 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.com/categories/%E5%92%96%E5%95%A1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>咖啡</title>
-      <link>https://aeicafe.com/blog/post-2/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://aeicafe.com/blog/post-2/</guid>
-      <description>咖啡 義式咖啡 Café</description>
-    </item>
-    
-    <item>
       <title>咖啡 coffee</title>
       <link>https://aeicafe.com/drink-menu/coffee/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://aeicafe.com/drink-menu/coffee/</guid>
+      <description>咖啡 義式咖啡 Café</description>
+    </item>
+    
+    <item>
+      <title>咖啡</title>
+      <link>https://aeicafe.com/blog/post-2/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/blog/post-2/</guid>
       <description>咖啡 義式咖啡 Café</description>
     </item>
     

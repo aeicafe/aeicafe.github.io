@@ -17,20 +17,20 @@
     </item>
     
     <item>
-      <title>fashion</title>
-      <link>https://aeicafe.com/tags/fashion/</link>
+      <title>cuisine</title>
+      <link>https://aeicafe.com/tags/cuisine/</link>
       <pubDate>Tue, 01 Dec 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aeicafe.com/tags/fashion/</guid>
+      <guid>https://aeicafe.com/tags/cuisine/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>lifestyle</title>
-      <link>https://aeicafe.com/tags/lifestyle/</link>
+      <title>meal</title>
+      <link>https://aeicafe.com/tags/meal/</link>
       <pubDate>Tue, 01 Dec 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aeicafe.com/tags/lifestyle/</guid>
+      <guid>https://aeicafe.com/tags/meal/</guid>
       <description></description>
     </item>
     
@@ -44,11 +44,20 @@
     </item>
     
     <item>
-      <title>meal</title>
-      <link>https://aeicafe.com/tags/meal/</link>
+      <title>fashion</title>
+      <link>https://aeicafe.com/tags/fashion/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://aeicafe.com/tags/meal/</guid>
+      <guid>https://aeicafe.com/tags/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lifestyle</title>
+      <link>https://aeicafe.com/tags/lifestyle/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/tags/lifestyle/</guid>
       <description></description>
     </item>
     

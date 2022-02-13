@@ -6,11 +6,20 @@
     <description>Recent content in Author on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andy</title>
+      <link>https://aeicafe.com/author/andy/</link>
+      <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/author/andy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Ellen</title>
       <link>https://aeicafe.com/author/ellen/</link>
-      <pubDate>Sun, 14 Nov 2021 15:40:24 +0600</pubDate>
+      <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
       
       <guid>https://aeicafe.com/author/ellen/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://aeicafe.com/author/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andy</title>
-      <link>https://aeicafe.com/author/andy/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://aeicafe.com/author/andy/</guid>
       <description></description>
     </item>
     

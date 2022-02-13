@@ -6,22 +6,40 @@
     <description>Recent content in Categories on 安迪艾倫咖啡小館</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Feb 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 15:40:24 +0600</lastBuildDate><atom:link href="https://aeicafe.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dessert</title>
+      <link>https://aeicafe.com/categories/dessert/</link>
+      <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>咖啡</title>
+      <link>https://aeicafe.com/categories/%E5%92%96%E5%95%A1/</link>
+      <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/categories/%E5%92%96%E5%95%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>點心</title>
+      <link>https://aeicafe.com/categories/%E9%BB%9E%E5%BF%83/</link>
+      <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://aeicafe.com/categories/%E9%BB%9E%E5%BF%83/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cuisine</title>
       <link>https://aeicafe.com/categories/cuisine/</link>
       <pubDate>Thu, 10 Feb 2022 15:40:24 +0600</pubDate>
       
       <guid>https://aeicafe.com/categories/cuisine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dessert</title>
-      <link>https://aeicafe.com/categories/dessert/</link>
-      <pubDate>Sun, 14 Nov 2021 15:40:24 +0600</pubDate>
-      
-      <guid>https://aeicafe.com/categories/dessert/</guid>
       <description></description>
     </item>
     
@@ -62,29 +80,11 @@
     </item>
     
     <item>
-      <title>咖啡</title>
-      <link>https://aeicafe.com/categories/%E5%92%96%E5%95%A1/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://aeicafe.com/categories/%E5%92%96%E5%95%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>西餐</title>
       <link>https://aeicafe.com/categories/%E8%A5%BF%E9%A4%90/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://aeicafe.com/categories/%E8%A5%BF%E9%A4%90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>點心</title>
-      <link>https://aeicafe.com/categories/%E9%BB%9E%E5%BF%83/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://aeicafe.com/categories/%E9%BB%9E%E5%BF%83/</guid>
       <description></description>
     </item>
     

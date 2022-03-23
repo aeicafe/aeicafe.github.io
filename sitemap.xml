@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aeicafe.com/food-menu/cuisine/</loc>
+    <loc>https://aeicafe.com/menus/cuisine/</loc>
     <lastmod>2022-02-10T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/pasta/</loc>
+    <loc>https://aeicafe.com/menus/pasta/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/risotto/</loc>
+    <loc>https://aeicafe.com/menus/risotto/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/refreshment/</loc>
+    <loc>https://aeicafe.com/menus/refreshment/</loc>
     <lastmod>2022-02-12T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/food-menu/dessert/</loc>
+    <loc>https://aeicafe.com/menus/dessert/</loc>
     <lastmod>2022-02-12T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/drink-menu/coffee/</loc>
+    <loc>https://aeicafe.com/menus/coffee/</loc>
     <lastmod>2022-02-12T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/drink-menu/tea/</loc>
+    <loc>https://aeicafe.com/menus/tea/</loc>
     <lastmod>2022-02-12T18:41:34+08:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/drink-menu/</loc>
+    <loc>https://aeicafe.com/menus/</loc>
     <lastmod>2022-02-12T18:46:00+08:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/</loc>
     <lastmod>2022-02-12T18:46:00+08:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/drink-menu/blended/</loc>
+    <loc>https://aeicafe.com/menus/blended/</loc>
     <lastmod>2022-02-12T18:46:00+08:00</lastmod>
   </url><url>
-    <loc>https://aeicafe.com/drink-menu/alcohol/</loc>
+    <loc>https://aeicafe.com/menus/alcohol/</loc>
     <lastmod>2022-02-12T18:42:26+08:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/author/andy/</loc>
@@ -63,9 +63,6 @@
     <lastmod>2022-02-12T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/categories/%E5%92%96%E5%95%A1/</loc>
-    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://aeicafe.com/food-menu/</loc>
     <lastmod>2022-02-12T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://aeicafe.com/categories/%E9%BB%9E%E5%BF%83/</loc>
